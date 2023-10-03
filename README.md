@@ -21,7 +21,7 @@ In this project, an application supported by a toolbar that lists movies and inc
 </table>
 
 </br> 
-- Related components: toolbar_menu, activity_main, MainActivity
+-Related components: toolbar_menu, activity_main, MainActivity
 
 </br> </br> 
 
@@ -35,7 +35,7 @@ In this project, an application supported by a toolbar that lists movies and inc
 </p>  
 
 </br> 
-- Related components: movie_item_list, activity_main, MovieData, MovieAdapter, MainActivity
+-Related components: movie_item_list, activity_main, MovieData, MovieAdapter, MainActivity
 
 
 </br> </br> 
@@ -46,4 +46,8 @@ In this project, an application supported by a toolbar that lists movies and inc
 <p align="center">
   <img src = "app/src/main/res/AppImages/searchView_image.png" witdh="500" height="700">
 </p> 
+
+</br> 
+-Related components: activity_main, MainActivity , MovieAdapter
+
   
