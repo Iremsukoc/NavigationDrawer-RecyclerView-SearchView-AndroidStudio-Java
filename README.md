@@ -15,19 +15,19 @@ In this project, an application supported by a toolbar that lists movies and inc
 
 <table>
   <tr>
-    <td><img src="app/src/main/res/AppImages/toolbar_image.png" width="350" height="700"></td>
-    <td><img src="app/src/main/res/AppImages/toolbar_image2.png" width="350" height="700"></td>
+    <td><img src="app/src/main/res/AppImages/toolbar_image.png" width="500" height="700"></td>
+    <td><img src="app/src/main/res/AppImages/toolbar_image2.png" width="500" height="700"></td>
   </tr>
 </table>
 
 </br> 
--Related components: toolbar_menu, activity_main, MainActivity
+- Related components: toolbar_menu, activity_main, MainActivity
 
 </br> </br> 
 
 ### Recycler View
--When opened in Mainactivity, movies are listed with their names, posters and directors.
--Vertical recycler view was used.  </br></br>
+- When opened in Mainactivity, movies are listed with their names, posters and directors.
+- Vertical recycler view was used.  </br></br>
 
 
 <p align="center">
@@ -35,7 +35,7 @@ In this project, an application supported by a toolbar that lists movies and inc
 </p>  
 
 </br> 
--Related components: movie_item_list, activity_main, MovieData, MovieAdapter, MainActivity
+- Related components: movie_item_list, activity_main, MovieData, MovieAdapter, MainActivity
 
 
 </br> </br> 
