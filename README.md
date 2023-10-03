@@ -23,6 +23,7 @@ In this project, an application supported by a toolbar that lists movies and inc
 </br> 
 - Related components: toolbar_menu, activity_main, MainActivity
 
+
 </br> </br> 
 
 ### Recycler View
@@ -38,6 +39,7 @@ In this project, an application supported by a toolbar that lists movies and inc
 - Related components: movie_item_list, activity_main, MovieData, MovieAdapter, MainActivity
 
 
+
 </br> </br> 
 
 ### Search View
@@ -49,5 +51,6 @@ In this project, an application supported by a toolbar that lists movies and inc
 
 </br> 
 - Related components: activity_main, MainActivity , MovieAdapter
+
 
   
