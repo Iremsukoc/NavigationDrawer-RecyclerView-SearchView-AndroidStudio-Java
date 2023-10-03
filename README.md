@@ -15,8 +15,8 @@ In this project, an application supported by a toolbar that lists movies and inc
 
 <table>
   <tr>
-    <td><img src="app/src/main/res/AppImages/toolbar_image.png" width="500" height="700"></td>
-    <td><img src="app/src/main/res/AppImages/toolbar_image2.png" width="500" height="700"></td>
+    <td><img src="app/src/main/res/AppImages/toolbar_image.png" style="width: 500px; height: 700px;"></td>
+    <td><img src="app/src/main/res/AppImages/toolbar_image2.png" style="width: 500px; height: 700px;"></td>
   </tr>
 </table>
 
@@ -41,3 +41,9 @@ In this project, an application supported by a toolbar that lists movies and inc
 </br> </br> 
 
 ### Search View
+- When the search icon is pressed, the list is instantly refreshed as words or letters are typed in the search box, and the appropriate ones are listed in the recycler view.  </br> </br>
+
+<p align="center">
+  <img src = "app/src/main/res/AppImages/searchView_image.png" witdh="500" height="700">
+</p> 
+  
