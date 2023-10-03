@@ -6,16 +6,19 @@ In this project, an application supported by a toolbar that lists movies and inc
 
 
 ### Navigation Drawer
--In this project, a horizontal navigation drawer (toolbar) was developed.
--When the project was first opened, the icons seen at the top of the home page were defined in the file in the menu directory.
--Typically, these elements are specified with a name, an icon, and an ID. This method is a common approach used to organize the content of the navigation drawer and facilitate user navigation within the application. 
--Items that do not appear in the toolbar are displayed when you press the area indicated by 3 dots.
+- In this project, a horizontal navigation drawer (toolbar) was developed.
+- When the project was first opened, the icons seen at the top of the home page were defined in the file in the menu directory.
+- Typically, these elements are specified with a name, an icon, and an ID. This method is a common approach used to organize the content of the navigation drawer and facilitate user navigation within the application. 
+- Items that do not appear in the toolbar are displayed when you press the area indicated by 3 dots.
 
 </br> </br> 
 
-<img src = "app/src/main/res/AppImages/toolbar_image.png" witdh="350" height="700">
-
-<img src = "app/src/main/res/AppImages/toolbar_image2.png" witdh="350" height="700">
+<table>
+  <tr>
+    <td><img src="app/src/main/res/AppImages/toolbar_image.png" width="350" height="700"></td>
+    <td><img src="app/src/main/res/AppImages/toolbar_image2.png" width="350" height="700"></td>
+  </tr>
+</table>
 
 </br> 
 -Related components: toolbar_menu, activity_main, MainActivity
